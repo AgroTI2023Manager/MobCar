@@ -1,0 +1,2 @@
+C:/Users/sales/Downloads/StudioProjects/mobcar_drivers/android/app/.cxx/RelWithDebInfo/19312kw6/x86/CMakeFiles/edit_cache.dir
+C:/Users/sales/Downloads/StudioProjects/mobcar_drivers/android/app/.cxx/RelWithDebInfo/19312kw6/x86/CMakeFiles/rebuild_cache.dir

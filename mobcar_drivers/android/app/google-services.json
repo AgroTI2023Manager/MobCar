@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929621081803",
+    "firebase_url": "https://mob-car-android-app-default-rtdb.firebaseio.com",
+    "project_id": "mob-car-android-app",
+    "storage_bucket": "mob-car-android-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929621081803:android:e8e81ece1363901e21a54e",
+        "android_client_info": {
+          "package_name": "com.agroti.mobcardrivers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYGg5YyDsn_K8KOL7t695P42MgJmcN7M"
+        },
+        {
+          "current_key": "AIzaSyB_uqD-9h4IQ5jzi_ov7pvXvhM6NYzrcOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929621081803:android:f92c7179a583a03821a54e",
+        "android_client_info": {
+          "package_name": "com.agroti.usersmobcarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYGg5YyDsn_K8KOL7t695P42MgJmcN7M"
+        },
+        {
+          "current_key": "AIzaSyB_uqD-9h4IQ5jzi_ov7pvXvhM6NYzrcOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
